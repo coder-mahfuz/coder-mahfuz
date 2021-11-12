@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahfuzur Rahman
 - 👀 I’m interested in Back-End Developement
-- 🌱 I’m currently learning javaScript
+- 🌱 I’m currently learning ExpressJs
 - 📫 Reach me on - mahfuz468865@gmail.com
 - 🐦 Follow me on - Twitter @MahfuzBw
 
