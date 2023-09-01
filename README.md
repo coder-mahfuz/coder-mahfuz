@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Mahfuzur Rahman
-- 👀 I’m interested in Back-End Developement
-- 🌱 I’m currently learning ExpressJs
+- 🌱 PHP/WordPress Developer 
 - 📫 Reach me on - mahfuz468865@gmail.com
-- 🐦 Follow me on - Twitter @MahfuzBw
+- 🔗 Connect with me - LinkedIn [Mahfuzur Rahman](https://www.linkedin.com/in/mahfuzd/)
 
 <!---
 coder-mahfuz/coder-mahfuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
